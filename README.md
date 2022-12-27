@@ -3,6 +3,7 @@ About me
 KPI Student
 
 Technologies:
+
 •React, Redux, Typescript
 •Algorithms and data structures
 •SOLID principles
