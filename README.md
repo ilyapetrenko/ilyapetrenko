@@ -4,12 +4,12 @@ KPI Student
 
 Technologies:
 
-  •React, Redux, Typescript
+       •React, Redux, Typescript
 
-  •Algorithms and data structures
+       •Algorithms and data structures
 
-  •SOLID principles
+       •SOLID principles
 
-  •Git, Vanilla JS, Basic C++
+       •Git, Vanilla JS, Basic C++
 
 Contact me: ilyapetrenko03.90@gmail.com
